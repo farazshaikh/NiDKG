@@ -112,6 +112,7 @@ That path most closely mirrors how Groth 21 NiDKG layering evolves.
 ## Running the tests
 ### run all tests
 ```
+pip install -r ./requirements.txt
 python -m pytest
 ```
 
